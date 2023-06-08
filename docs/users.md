@@ -28,7 +28,7 @@ Several innocent looking malicious mods and plugins were initially uploaded by t
 to the mod hosting website CurseForge and plugin hub dev.craftbukkit.org (not the Bukkit 
 software itself). A high-profile mod pack developer downloaded one of these mods to try
 out, which infected files in their computer without their knowledge - this included a copy of a 
-working project that would then be uploaded to CurseForge as a seemingly leigimate file, with the 
+working project that would then be uploaded to CurseForge as a seemingly legitimate file, with the 
 virus included. 
 
 This process then repeated itself for a few other cases from users on CurseForge and 
@@ -180,7 +180,7 @@ If you find stage 2 files from fractureiser on your system, it's very likely tha
 has ran and infected your machine.  
 Your best option now is to assume everything on that system is *entirely compromised*. You should:
 
-* Back up anything you do not want to lose on an a flash drive or external disk (you should be
+* Back up anything you do not want to lose on a flash drive or external disk (you should be
 doing this regularly anyway!)
 * Using a separate device, change the passwords to all services you were logged into on
   the old machine (Discord, email, etc.). Preferably using a password manager like
@@ -211,7 +211,7 @@ already used, and those **ONLY**.
 
 ### Is CurseForge hacked?
 CurseForge itself is not compromised, only individual users. This is not a CurseForge problem, they
-just happened to the be place this happened in. CurseForge have also [posted an article](https://support.curseforge.com/en/support/solutions/articles/9000228509-june-2023-infected-mods-detection-tool/) describing the situation from their end and
+just happened to be the place this happened in. CurseForge have also [posted an article](https://support.curseforge.com/en/support/solutions/articles/9000228509-june-2023-infected-mods-detection-tool/) describing the situation from their end and
 are working on deploying countermeasures.
 
 ### Is Modrinth okay?
